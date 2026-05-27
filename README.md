@@ -1,6 +1,6 @@
 # Convergence (收敛式卡片笔记)
 
-`Convergence` 是一款专为 Android 平台打造的**本地双向链接卡片笔记与 Markdown 编辑器**。它融合了 Obsidian 与 Roam Research 的卡片盒笔记法（Zettelkasten）思想，结合了 Material Design 3 现代美工设计，旨在为您提供最纯粹、安全且极速的知识沉淀体验。
+`Convergence` 是一款专为 Android 平台打造的**本地双向链接卡片笔记与 Markdown 编辑器**。结合了 Material Design 3 现代美工设计，旨在为您提供最纯粹、安全且极速的知识沉淀体验。
 
 ---
 
