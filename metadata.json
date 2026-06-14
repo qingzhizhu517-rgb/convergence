@@ -1,0 +1,6 @@
+{
+  "name": "Convergence",
+  "description": "An elegant local Markdown reader and editor featuring an Obsidian-inspired interactive graph visualization, bi-directional folder linking, and real-time bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
